@@ -14,9 +14,11 @@ import { ProfileComponent } from './pages/profile/profile.component';
 import { AboutComponent } from './pages/about/about.component';
 import { HelpComponent } from './pages/help/help.component';
 import { NotFoundComponent } from './pages/not-found/not-found.component';
+import { ProductoComponent } from './pages/producto/producto.component';
+import { ProveedorComponent } from './pages/proveedor/proveedor.component';
 
 @NgModule({
-  declarations: [AppComponent, HomeComponent, ProfileComponent, AboutComponent, HelpComponent, NotFoundComponent],
+  declarations: [AppComponent, HomeComponent, ProfileComponent, AboutComponent, HelpComponent, NotFoundComponent, ProductoComponent, ProveedorComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
