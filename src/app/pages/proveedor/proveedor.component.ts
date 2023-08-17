@@ -8,6 +8,7 @@ import { ProductoService } from 'src/app/services/producto.service';
   styleUrls: ['./proveedor.component.scss']
 })
 export class ProveedorComponent implements OnInit {
+  displayedColumns: string[] = ['demo-price','demo-code', 'demo-name', 'demo-proveedor'];
   datos: ProductoCantidad[] = [];
 
   constructor(private productoService:ProductoService) { }

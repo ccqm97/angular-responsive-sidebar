@@ -5,7 +5,6 @@ export interface Producto {
     PrecioVenta: number;
     PrecioVentaOriginal: number;
     PrecioCompra: number;
-    Cantidad: number;
   }
   
   export interface ProductoCantidad {
