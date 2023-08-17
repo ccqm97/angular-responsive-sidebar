@@ -1,1 +1,21 @@
-<p>proveedor works!</p>
+<table>
+    <thead>
+      <tr>
+        <th>Número</th>
+        <th>Descripción</th>
+        <th>Precio de Compra</th>
+        <th>Cantidad</th>
+        <th>Precio Pedido</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let dato of datos">
+        <td>{{ dato.Producto.Numero }}</td>
+        <td>{{ dato.Producto.Descripcion }}</td>
+        <td>{{ dato.Producto.PrecioCompra }}</td>
+        <td>{{ dato.Cantidad }}</td>
+        <td>{{ (dato.Cantidad*dato.Producto.PrecioCompra) }}</td>
+      </tr>
+    </tbody>
+  </table>
+  

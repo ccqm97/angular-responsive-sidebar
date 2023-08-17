@@ -1,0 +1,1998 @@
+{ "Productos": [{
+    "Numero": 225,
+    "Descripcion": "AGUARDIENTE AMARILLO *375ml",
+    "CodigoBarras": "7702168594300",
+    "PrecioCompra": 21500,
+    "PrecioVenta": 25000,
+    "Existencia": 4,
+    "Stock": 2
+},
+{
+    "Numero": 224,
+    "Descripcion": "TRIDENT X 3",
+    "CodigoBarras": "7622201800345",
+    "PrecioCompra": 200,
+    "PrecioVenta": 500,
+    "Existencia": -1,
+    "Stock": 0
+},
+{
+    "Numero": 223,
+    "Descripcion": "Jugo Hit Mango",
+    "CodigoBarras": "7702090029864",
+    "PrecioCompra": 2000,
+    "PrecioVenta": 2500,
+    "Existencia": 4,
+    "Stock": 1
+},
+{
+    "Numero": 222,
+    "Descripcion": "Jugo Hit Naranja Piña",
+    "CodigoBarras": "7702090029871",
+    "PrecioCompra": 1800,
+    "PrecioVenta": 2500,
+    "Existencia": 1,
+    "Stock": 2
+},
+{
+    "Numero": 221,
+    "Descripcion": "Copas Paquete",
+    "CodigoBarras": "7702251017839",
+    "PrecioCompra": 1700,
+    "PrecioVenta": 3000,
+    "Existencia": 25,
+    "Stock": 1
+},
+{
+    "Numero": 220,
+    "Descripcion": "Aguardiente Nectar Verde Garrafa 2000ml",
+    "CodigoBarras": "7702404005065",
+    "PrecioCompra": 74982,
+    "PrecioVenta": 88000,
+    "Existencia": 2,
+    "Stock": 2
+},
+{
+    "Numero": 219,
+    "Descripcion": "Smirnoff Ice Blue",
+    "CodigoBarras": "5410316965040",
+    "PrecioCompra": 6980,
+    "PrecioVenta": 9000,
+    "Existencia": 12,
+    "Stock": 6
+},
+{
+    "Numero": 218,
+    "Descripcion": "Vino Leyenda Cabernet-Sauvignon-Syrah",
+    "CodigoBarras": "7804449011817",
+    "PrecioCompra": 35571,
+    "PrecioVenta": 45000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 217,
+    "Descripcion": "Vino Leyenda Merlot",
+    "CodigoBarras": "7804449008671",
+    "PrecioCompra": 32711,
+    "PrecioVenta": 43000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 216,
+    "Descripcion": "Vino Sansón Maestro *750ml",
+    "CodigoBarras": "7703588000495",
+    "PrecioCompra": 19149,
+    "PrecioVenta": 30000,
+    "Existencia": 2,
+    "Stock": 2
+},
+{
+    "Numero": 215,
+    "Descripcion": "Agua Montercarlo",
+    "CodigoBarras": "7702857000433",
+    "PrecioCompra": 940,
+    "PrecioVenta": 2000,
+    "Existencia": -18,
+    "Stock": 24
+},
+{
+    "Numero": 214,
+    "Descripcion": "Encendedor sol",
+    "CodigoBarras": "7707015508295",
+    "PrecioCompra": 806.68,
+    "PrecioVenta": 2000,
+    "Existencia": 39,
+    "Stock": 48
+},
+{
+    "Numero": 213,
+    "Descripcion": "Cocacola  1.5 litro",
+    "CodigoBarras": "7702535024423",
+    "PrecioCompra": 4127,
+    "PrecioVenta": 5000,
+    "Existencia": 4,
+    "Stock": 4
+},
+{
+    "Numero": 212,
+    "Descripcion": "POWER ADE FRUTAS TROPICALES *500m",
+    "CodigoBarras": "7702535009987",
+    "PrecioCompra": 2500,
+    "PrecioVenta": 3000,
+    "Existencia": 6,
+    "Stock": 1
+},
+{
+    "Numero": 211,
+    "Descripcion": "Todorico Natural",
+    "CodigoBarras": "7702152008950",
+    "PrecioCompra": 2200,
+    "PrecioVenta": 2500,
+    "Existencia": 3,
+    "Stock": 0
+},
+{
+    "Numero": 210,
+    "Descripcion": "Coronita CAJA X4 SIXPACKS",
+    "CodigoBarras": "7702004110749",
+    "PrecioCompra": 57000,
+    "PrecioVenta": 88000,
+    "Existencia": -2,
+    "Stock": 10
+},
+{
+    "Numero": 209,
+    "Descripcion": "Piña Colada Convier",
+    "CodigoBarras": "7702559020630",
+    "PrecioCompra": 32100,
+    "PrecioVenta": 43000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 208,
+    "Descripcion": "Piña Colada Maui",
+    "CodigoBarras": "7702534200026",
+    "PrecioCompra": 23900,
+    "PrecioVenta": 34000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 207,
+    "Descripcion": "Sabajon Apolo",
+    "CodigoBarras": "7702534100029",
+    "PrecioCompra": 20800,
+    "PrecioVenta": 31000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 206,
+    "Descripcion": "Todo Rico Criollo Aji",
+    "CodigoBarras": "7702152124513",
+    "PrecioCompra": 2156.25,
+    "PrecioVenta": 2500,
+    "Existencia": 8,
+    "Stock": 8
+},
+{
+    "Numero": 205,
+    "Descripcion": "Papas Super Ricas Picantes",
+    "CodigoBarras": "7702152101606",
+    "PrecioCompra": 1550,
+    "PrecioVenta": 2000,
+    "Existencia": -7,
+    "Stock": 12
+},
+{
+    "Numero": 204,
+    "Descripcion": "Corona en Lata En unidad",
+    "CodigoBarras": "7702004111043",
+    "PrecioCompra": 2500,
+    "PrecioVenta": 3500,
+    "Existencia": 40,
+    "Stock": 40
+},
+{
+    "Numero": 203,
+    "Descripcion": "Bubballo",
+    "CodigoBarras": "",
+    "PrecioCompra": 117,
+    "PrecioVenta": 200,
+    "Existencia": 123,
+    "Stock": 100
+},
+{
+    "Numero": 202,
+    "Descripcion": "Cola & Pola Unidad",
+    "CodigoBarras": "7702004016614",
+    "PrecioCompra": 3000,
+    "PrecioVenta": 3500,
+    "Existencia": 38,
+    "Stock": 41
+},
+{
+    "Numero": 201,
+    "Descripcion": "Vino Manischewitz",
+    "CodigoBarras": "085976033931",
+    "PrecioCompra": 43000,
+    "PrecioVenta": 53000,
+    "Existencia": 0,
+    "Stock": 1
+},
+{
+    "Numero": 200,
+    "Descripcion": "Champaña Katich Rosada",
+    "CodigoBarras": "7702307110422",
+    "PrecioCompra": 14700,
+    "PrecioVenta": 18000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 199,
+    "Descripcion": "Grant`s  Triple Wood",
+    "CodigoBarras": "5010327000404",
+    "PrecioCompra": 46500,
+    "PrecioVenta": 65000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 198,
+    "Descripcion": "chivas Regal 12 años",
+    "CodigoBarras": "080432402931",
+    "PrecioCompra": 116500,
+    "PrecioVenta": 140000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 197,
+    "Descripcion": "Tequila Olmeca Blanco",
+    "CodigoBarras": "080432402191",
+    "PrecioCompra": 66400,
+    "PrecioVenta": 86000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 196,
+    "Descripcion": "Tequila Olmeca Reposado 700 ml",
+    "CodigoBarras": "080432108703",
+    "PrecioCompra": 66800,
+    "PrecioVenta": 86000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 195,
+    "Descripcion": "Tequila 1800 Reposado 750 ml",
+    "CodigoBarras": "7501035010192",
+    "PrecioCompra": 189000,
+    "PrecioVenta": 220000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 194,
+    "Descripcion": "Buchanan`s Two Souls",
+    "CodigoBarras": "5000196006539",
+    "PrecioCompra": 167699,
+    "PrecioVenta": 220000,
+    "Existencia": -1,
+    "Stock": 3
+},
+{
+    "Numero": 193,
+    "Descripcion": "HEINEKEN LATA UNIDAD",
+    "CodigoBarras": "7702090052039",
+    "PrecioCompra": 1920,
+    "PrecioVenta": 3000,
+    "Existencia": 24,
+    "Stock": 0
+},
+{
+    "Numero": 192,
+    "Descripcion": "TECATE LATA UNIDAD",
+    "CodigoBarras": "7702090066418",
+    "PrecioCompra": 1650,
+    "PrecioVenta": 2700,
+    "Existencia": 24,
+    "Stock": 0
+},
+{
+    "Numero": 191,
+    "Descripcion": "ANDINA LATA UNIDAD",
+    "CodigoBarras": "7702090050554",
+    "PrecioCompra": 1646,
+    "PrecioVenta": 2700,
+    "Existencia": 24,
+    "Stock": 0
+},
+{
+    "Numero": 190,
+    "Descripcion": "AGUILA LIGHT LATA UNIDAD",
+    "CodigoBarras": "7702004001955",
+    "PrecioCompra": 2200,
+    "PrecioVenta": 3200,
+    "Existencia": 23,
+    "Stock": 0
+},
+{
+    "Numero": 189,
+    "Descripcion": "PAPAS DE POLLO",
+    "CodigoBarras": "7702152101583",
+    "PrecioCompra": 1558,
+    "PrecioVenta": 2000,
+    "Existencia": 0,
+    "Stock": 0
+},
+{
+    "Numero": 188,
+    "Descripcion": "Todo Rico Limón y Pimienta",
+    "CodigoBarras": "7702152119083",
+    "PrecioCompra": 2156,
+    "PrecioVenta": 2500,
+    "Existencia": 10,
+    "Stock": 0
+},
+{
+    "Numero": 187,
+    "Descripcion": "Todo Rico BBQ",
+    "CodigoBarras": "7702152107295",
+    "PrecioCompra": 2156,
+    "PrecioVenta": 2500,
+    "Existencia": 2,
+    "Stock": 0
+},
+{
+    "Numero": 186,
+    "Descripcion": "Todo Rico Natural",
+    "CodigoBarras": "7702152107264",
+    "PrecioCompra": 2156,
+    "PrecioVenta": 2500,
+    "Existencia": 4,
+    "Stock": 0
+},
+{
+    "Numero": 185,
+    "Descripcion": "Galleta Club Social",
+    "CodigoBarras": "7590011205158",
+    "PrecioCompra": 600,
+    "PrecioVenta": 1000,
+    "Existencia": 28,
+    "Stock": 0
+},
+{
+    "Numero": 184,
+    "Descripcion": "Trident unidad *1.8gr",
+    "CodigoBarras": "7702133456572",
+    "PrecioCompra": 158,
+    "PrecioVenta": 300,
+    "Existencia": 3,
+    "Stock": 0
+},
+{
+    "Numero": 183,
+    "Descripcion": "HALLS unidad *3gr",
+    "CodigoBarras": "7702133445095",
+    "PrecioCompra": 180,
+    "PrecioVenta": 200,
+    "Existencia": 92,
+    "Stock": 0
+},
+{
+    "Numero": 182,
+    "Descripcion": "Trident Tropical Mix *5",
+    "CodigoBarras": "7622201776541",
+    "PrecioCompra": 1000,
+    "PrecioVenta": 1500,
+    "Existencia": -2,
+    "Stock": 0
+},
+{
+    "Numero": 181,
+    "Descripcion": "Gaseosa Manzana *400ml",
+    "CodigoBarras": "7702090031928",
+    "PrecioCompra": 1433,
+    "PrecioVenta": 2000,
+    "Existencia": 6,
+    "Stock": 0
+},
+{
+    "Numero": 180,
+    "Descripcion": "Gaseosa Colombiana *400ml",
+    "CodigoBarras": "7702090032017",
+    "PrecioCompra": 1433,
+    "PrecioVenta": 2000,
+    "Existencia": 4,
+    "Stock": 0
+},
+{
+    "Numero": 179,
+    "Descripcion": "Gatorade Mandarina *500ml",
+    "CodigoBarras": "7702192218050",
+    "PrecioCompra": 2625,
+    "PrecioVenta": 3500,
+    "Existencia": -47,
+    "Stock": 0
+},
+{
+    "Numero": 178,
+    "Descripcion": "Whisky Buchanan`s D`luxe *375ml",
+    "CodigoBarras": "50196395",
+    "PrecioCompra": 72766,
+    "PrecioVenta": 84000,
+    "Existencia": 3,
+    "Stock": 0
+},
+{
+    "Numero": 177,
+    "Descripcion": "Mike`s jugo de Limon y Vocka, Fresa *355ml",
+    "CodigoBarras": "7503026724934",
+    "PrecioCompra": 3800,
+    "PrecioVenta": 8000,
+    "Existencia": 0,
+    "Stock": 0
+},
+{
+    "Numero": 176,
+    "Descripcion": "JP CHENET ROSE",
+    "CodigoBarras": "3263280120470",
+    "PrecioCompra": 9000,
+    "PrecioVenta": 14000,
+    "Existencia": 0,
+    "Stock": 0
+},
+{
+    "Numero": 175,
+    "Descripcion": "Chocolatina Jet pequeña *12gr",
+    "CodigoBarras": "77010148",
+    "PrecioCompra": 490,
+    "PrecioVenta": 800,
+    "Existencia": 31,
+    "Stock": 1
+},
+{
+    "Numero": 174,
+    "Descripcion": "Chocolatina Jumbo Mix *60gr",
+    "CodigoBarras": "7702007009989",
+    "PrecioCompra": 1750,
+    "PrecioVenta": 2500,
+    "Existencia": -2,
+    "Stock": 1
+},
+{
+    "Numero": 173,
+    "Descripcion": "Mani Especial Sal *40gr",
+    "CodigoBarras": "7702007074147",
+    "PrecioCompra": 1475,
+    "PrecioVenta": 2000,
+    "Existencia": 10,
+    "Stock": 1
+},
+{
+    "Numero": 172,
+    "Descripcion": "Mani Especial Pasas *40gr",
+    "CodigoBarras": "7702007074185",
+    "PrecioCompra": 1475,
+    "PrecioVenta": 2000,
+    "Existencia": 3,
+    "Stock": 1
+},
+{
+    "Numero": 171,
+    "Descripcion": "AGUILA LATA UNIDAD",
+    "CodigoBarras": "7702004001917",
+    "PrecioCompra": 2000,
+    "PrecioVenta": 3000,
+    "Existencia": 23,
+    "Stock": 5
+},
+{
+    "Numero": 170,
+    "Descripcion": "POKER LATA UNIDAD",
+    "CodigoBarras": "7702004007360",
+    "PrecioCompra": 2000,
+    "PrecioVenta": 2800,
+    "Existencia": 84,
+    "Stock": 5
+},
+{
+    "Numero": 169,
+    "Descripcion": "Budweiser lata Unidad *269ml",
+    "CodigoBarras": "7702004110596",
+    "PrecioCompra": 2066,
+    "PrecioVenta": 2500,
+    "Existencia": 61,
+    "Stock": 2
+},
+{
+    "Numero": 168,
+    "Descripcion": "Budweiser Six Pack *250ml",
+    "CodigoBarras": "7702004110572",
+    "PrecioCompra": 12263,
+    "PrecioVenta": 15000,
+    "Existencia": 9,
+    "Stock": 2
+},
+{
+    "Numero": 167,
+    "Descripcion": "Halls Limòn y Miel *9",
+    "CodigoBarras": "7622201776459",
+    "PrecioCompra": 1000,
+    "PrecioVenta": 1200,
+    "Existencia": 4,
+    "Stock": 1
+},
+{
+    "Numero": 166,
+    "Descripcion": "Halls Fruit Mix *9",
+    "CodigoBarras": "7622210427199",
+    "PrecioCompra": 1000,
+    "PrecioVenta": 1200,
+    "Existencia": 3,
+    "Stock": 1
+},
+{
+    "Numero": 165,
+    "Descripcion": "Halls Yerbabuena *9",
+    "CodigoBarras": "7702133815782",
+    "PrecioCompra": 1000,
+    "PrecioVenta": 1200,
+    "Existencia": 8,
+    "Stock": 1
+},
+{
+    "Numero": 164,
+    "Descripcion": "Holls Negro *9",
+    "CodigoBarras": "7622210427106",
+    "PrecioCompra": 1000,
+    "PrecioVenta": 1200,
+    "Existencia": 8,
+    "Stock": 1
+},
+{
+    "Numero": 163,
+    "Descripcion": "Trident Mora Fresh Herbal *5",
+    "CodigoBarras": "7622201776510",
+    "PrecioCompra": 1000,
+    "PrecioVenta": 1500,
+    "Existencia": 8,
+    "Stock": 1
+},
+{
+    "Numero": 162,
+    "Descripcion": "Trident Mora Sandia *5",
+    "CodigoBarras": "7622201776633",
+    "PrecioCompra": 1000,
+    "PrecioVenta": 1500,
+    "Existencia": 0,
+    "Stock": 1
+},
+{
+    "Numero": 161,
+    "Descripcion": "Trident Mora Menta *5",
+    "CodigoBarras": "7622201776664",
+    "PrecioCompra": 1000,
+    "PrecioVenta": 1500,
+    "Existencia": 12,
+    "Stock": 1
+},
+{
+    "Numero": 160,
+    "Descripcion": "Trident Yerbabuena *5",
+    "CodigoBarras": "7622201776572",
+    "PrecioCompra": 1000,
+    "PrecioVenta": 1500,
+    "Existencia": 5,
+    "Stock": 1
+},
+{
+    "Numero": 159,
+    "Descripcion": "Trident Mora Azul *5",
+    "CodigoBarras": "7622201776695",
+    "PrecioCompra": 1000,
+    "PrecioVenta": 1500,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 158,
+    "Descripcion": "Trident X Splash Menta/Vainilla",
+    "CodigoBarras": "7622201801229",
+    "PrecioCompra": 2100,
+    "PrecioVenta": 2500,
+    "Existencia": 3,
+    "Stock": 1
+},
+{
+    "Numero": 157,
+    "Descripcion": "Trident X Splash Fresa/Limon",
+    "CodigoBarras": "012546671231",
+    "PrecioCompra": 2100,
+    "PrecioVenta": 2500,
+    "Existencia": 5,
+    "Stock": 1
+},
+{
+    "Numero": 156,
+    "Descripcion": "Cigarrillos Lucky Daiqui Morado *Unidad",
+    "CodigoBarras": "Cigarrillos Lucky Daiqui Morado *Unidad",
+    "PrecioCompra": 467,
+    "PrecioVenta": 1000,
+    "Existencia": 1,
+    "Stock": 2
+},
+{
+    "Numero": 155,
+    "Descripcion": "Cigarrillos Lucky Gin Verde *Unidad",
+    "CodigoBarras": "Cigarrillos Lucky Gin Verde *Unidad",
+    "PrecioCompra": 467,
+    "PrecioVenta": 1000,
+    "Existencia": 48,
+    "Stock": 2
+},
+{
+    "Numero": 154,
+    "Descripcion": "Cigarrillos Malboro Rojo *Unidad",
+    "CodigoBarras": "Cigarrillos Malboro Rojo *Unidad",
+    "PrecioCompra": 446,
+    "PrecioVenta": 1000,
+    "Existencia": 5,
+    "Stock": 2
+},
+{
+    "Numero": 153,
+    "Descripcion": "Cigarrillos Malboro Sandia *Unidad",
+    "CodigoBarras": "Cigarrillos Malboro Sandia *Unidad",
+    "PrecioCompra": 384,
+    "PrecioVenta": 1000,
+    "Existencia": 6,
+    "Stock": 2
+},
+{
+    "Numero": 152,
+    "Descripcion": "Cigarrillos Chesterfield Green *Unidad",
+    "CodigoBarras": "Cigarrillos Chesterfield Green *Unidad",
+    "PrecioCompra": 353,
+    "PrecioVenta": 1000,
+    "Existencia": 10,
+    "Stock": 2
+},
+{
+    "Numero": 151,
+    "Descripcion": "Cigarrillos Rothmans Azul *Unidad",
+    "CodigoBarras": "Cigarrillos Rothmans Azul *Unidad",
+    "PrecioCompra": 408,
+    "PrecioVenta": 1000,
+    "Existencia": 79,
+    "Stock": 1
+},
+{
+    "Numero": 150,
+    "Descripcion": "Cigarrillos Lucky Fest Amarillo *Unidad",
+    "CodigoBarras": "Cigarrillos Lucky Fest Amarillo *Unidad",
+    "PrecioCompra": 467,
+    "PrecioVenta": 1000,
+    "Existencia": 8,
+    "Stock": 1
+},
+{
+    "Numero": 149,
+    "Descripcion": "Cigarrillos L&M *Unidad",
+    "CodigoBarras": "Cigarrillos L&M *Unidad",
+    "PrecioCompra": 289,
+    "PrecioVenta": 800,
+    "Existencia": 10,
+    "Stock": 5
+},
+{
+    "Numero": 148,
+    "Descripcion": "Cigarrillos L&M Medio",
+    "CodigoBarras": "7702005600720",
+    "PrecioCompra": 2895,
+    "PrecioVenta": 4000,
+    "Existencia": 28,
+    "Stock": 2
+},
+{
+    "Numero": 147,
+    "Descripcion": "Aguardiente Nectar Verde *375ml",
+    "CodigoBarras": "7702404005034",
+    "PrecioCompra": 15881,
+    "PrecioVenta": 22000,
+    "Existencia": -9,
+    "Stock": 1
+},
+{
+    "Numero": 146,
+    "Descripcion": "Aguardiente Nectar Verde *750ml",
+    "CodigoBarras": "7702404005041",
+    "PrecioCompra": 30192,
+    "PrecioVenta": 38000,
+    "Existencia": 6,
+    "Stock": 1
+},
+{
+    "Numero": 145,
+    "Descripcion": "Aguardiente Nectar Rojo *375ml",
+    "CodigoBarras": "7702404000039",
+    "PrecioCompra": 15709,
+    "PrecioVenta": 22000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 144,
+    "Descripcion": "Aguardiente Nectar Rojo *750ml",
+    "CodigoBarras": "7702404000046",
+    "PrecioCompra": 29878,
+    "PrecioVenta": 35000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 143,
+    "Descripcion": "Aguardiente Nectar Azul *375ml",
+    "CodigoBarras": "7702404006031",
+    "PrecioCompra": 18602,
+    "PrecioVenta": 22000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 142,
+    "Descripcion": "Aguardiente Nectar Rojo sin Azúcar *750ml",
+    "CodigoBarras": "7702404008042",
+    "PrecioCompra": 30027,
+    "PrecioVenta": 35000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 141,
+    "Descripcion": "Aguardiente Nectar Rojo sin Azucar *375ml",
+    "CodigoBarras": "7702404008035",
+    "PrecioCompra": 15786,
+    "PrecioVenta": 22000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 140,
+    "Descripcion": "Aguardiente Nectar Verde Tetra *1000ml",
+    "CodigoBarras": "7702404005287",
+    "PrecioCompra": 37910,
+    "PrecioVenta": 45000,
+    "Existencia": -6,
+    "Stock": 0
+},
+{
+    "Numero": 139,
+    "Descripcion": "Aguardiente Nectar Rojo Tetra *1000ml",
+    "CodigoBarras": "7702404008080",
+    "PrecioCompra": 37723,
+    "PrecioVenta": 45000,
+    "Existencia": -3,
+    "Stock": 1
+},
+{
+    "Numero": 138,
+    "Descripcion": "Aguardiente Nectar Verde Tetra *500ml",
+    "CodigoBarras": "7702404005089",
+    "PrecioCompra": 19789,
+    "PrecioVenta": 25000,
+    "Existencia": 8,
+    "Stock": 1
+},
+{
+    "Numero": 137,
+    "Descripcion": "Aguardiente Nectar Verde Tetra *250ml",
+    "CodigoBarras": "7702404005270",
+    "PrecioCompra": 9993,
+    "PrecioVenta": 12000,
+    "Existencia": 6,
+    "Stock": 1
+},
+{
+    "Numero": 136,
+    "Descripcion": "Aguardiente CRISTAL XS sin azucar / 750 ml",
+    "CodigoBarras": "7702168117400",
+    "PrecioCompra": 23091,
+    "PrecioVenta": 30000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 135,
+    "Descripcion": "Aguardiente CRISTAL Sin azucar / 750 ml",
+    "CodigoBarras": "7702168117509",
+    "PrecioCompra": 26778,
+    "PrecioVenta": 35000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 134,
+    "Descripcion": "Aguardiente CRISTAL / 750ml",
+    "CodigoBarras": "7702168117004",
+    "PrecioCompra": 27457,
+    "PrecioVenta": 37000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 133,
+    "Descripcion": "Licor de Aguardiente CHORRITO/1000 ML",
+    "CodigoBarras": "7702404004020",
+    "PrecioCompra": 22424,
+    "PrecioVenta": 32000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 132,
+    "Descripcion": "Licor de Aguardiente CHORRITO /500 ml",
+    "CodigoBarras": "7702404004013",
+    "PrecioCompra": 12054,
+    "PrecioVenta": 22000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 131,
+    "Descripcion": "Vino leyenda Carmenere / 750ml",
+    "CodigoBarras": "7808769703575",
+    "PrecioCompra": 32612,
+    "PrecioVenta": 42500,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 130,
+    "Descripcion": "Vino leyenda Cabernet sauvignon / 750 ml",
+    "CodigoBarras": "7804449008664",
+    "PrecioCompra": 32571,
+    "PrecioVenta": 43000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 129,
+    "Descripcion": "Vino Canan Moscateal / 750 ml",
+    "CodigoBarras": "7709433364453",
+    "PrecioCompra": 15321,
+    "PrecioVenta": 25000,
+    "Existencia": 2,
+    "Stock": 2
+},
+{
+    "Numero": 128,
+    "Descripcion": "Vino Canan Manzana / 750 ml",
+    "CodigoBarras": "7709433364422",
+    "PrecioCompra": 13187,
+    "PrecioVenta": 22000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 127,
+    "Descripcion": "Vino Canan Durazno /750 ml",
+    "CodigoBarras": "7709032109189",
+    "PrecioCompra": 14371,
+    "PrecioVenta": 24000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 126,
+    "Descripcion": "ron viejo de caldas 8 años crta de oro / 375 ml",
+    "CodigoBarras": "7702168627046",
+    "PrecioCompra": 33957,
+    "PrecioVenta": 43000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 125,
+    "Descripcion": "ron viejo de caldas 8 años cata de oro /750 ml",
+    "CodigoBarras": "7702168594737",
+    "PrecioCompra": 67041,
+    "PrecioVenta": 77000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 124,
+    "Descripcion": "ron santa fe 4 años tetra pack 1000 ml",
+    "CodigoBarras": "7702404001289",
+    "PrecioCompra": 50957,
+    "PrecioVenta": 60000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 123,
+    "Descripcion": "Ron santa fe 6 años 375 ml",
+    "CodigoBarras": "7702404001357",
+    "PrecioCompra": 33236,
+    "PrecioVenta": 43000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 122,
+    "Descripcion": "Ron Santa Fe añejo 4 años 750ML",
+    "CodigoBarras": "7702404001043",
+    "PrecioCompra": 39767,
+    "PrecioVenta": 49000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 121,
+    "Descripcion": "Ron viejo de caldas tradicional 375ml",
+    "CodigoBarras": "7702168214000",
+    "PrecioCompra": 20357,
+    "PrecioVenta": 30000,
+    "Existencia": 0,
+    "Stock": 1
+},
+{
+    "Numero": 120,
+    "Descripcion": "ron viejo de caldas tradicional 750ml",
+    "CodigoBarras": "7702168217308",
+    "PrecioCompra": 39614,
+    "PrecioVenta": 50000,
+    "Existencia": 6,
+    "Stock": 1
+},
+{
+    "Numero": 119,
+    "Descripcion": "ron viejo de caldas 5 secretos JUAN DE LA CRUZ 375 ML",
+    "CodigoBarras": "7702168239102",
+    "PrecioCompra": 22460,
+    "PrecioVenta": 32000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 118,
+    "Descripcion": "ron viejo de caldas 5 secretos JUAN DE LA CRUZ/750 ML",
+    "CodigoBarras": "7702168239201",
+    "PrecioCompra": 42301,
+    "PrecioVenta": 52000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 117,
+    "Descripcion": "licor de ron viejo de caldas /375ml",
+    "CodigoBarras": "7702168725254",
+    "PrecioCompra": 15018,
+    "PrecioVenta": 25000,
+    "Existencia": 3,
+    "Stock": 1
+},
+{
+    "Numero": 116,
+    "Descripcion": "Licor de Ron viejo de caldas  /750 ml",
+    "CodigoBarras": "7702168364231",
+    "PrecioCompra": 28701,
+    "PrecioVenta": 38000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 115,
+    "Descripcion": "Crema de Ron Viejo de Caldas CHEERS de700 ml",
+    "CodigoBarras": "7702168247732",
+    "PrecioCompra": 40651,
+    "PrecioVenta": 50000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 114,
+    "Descripcion": "Ron Viejo de Caldas Roble Blanco *75ml",
+    "CodigoBarras": "7702168997156",
+    "PrecioCompra": 32250,
+    "PrecioVenta": 40000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 113,
+    "Descripcion": "Aguardiente Amarillo por 750 ml",
+    "CodigoBarras": "7702168278477",
+    "PrecioCompra": 37880,
+    "PrecioVenta": 45000,
+    "Existencia": -6,
+    "Stock": 2
+},
+{
+    "Numero": 112,
+    "Descripcion": "Coronita Nacional Six Pack Botella *210ml",
+    "CodigoBarras": "7702004110725",
+    "PrecioCompra": 14450,
+    "PrecioVenta": 20000,
+    "Existencia": 39,
+    "Stock": 5
+},
+{
+    "Numero": 111,
+    "Descripcion": "Gaseosa Coca Cola Flexi *400ml",
+    "CodigoBarras": "7702535011089",
+    "PrecioCompra": 1608,
+    "PrecioVenta": 2800,
+    "Existencia": 3,
+    "Stock": 5
+},
+{
+    "Numero": 110,
+    "Descripcion": "Gaseosa Sprite *400ml",
+    "CodigoBarras": "7702535012086",
+    "PrecioCompra": 1500,
+    "PrecioVenta": 2500,
+    "Existencia": 6,
+    "Stock": 5
+},
+{
+    "Numero": 109,
+    "Descripcion": "Gaseosa Cuatro *400ml",
+    "CodigoBarras": "7702535012079",
+    "PrecioCompra": 1500,
+    "PrecioVenta": 2500,
+    "Existencia": 5,
+    "Stock": 3
+},
+{
+    "Numero": 108,
+    "Descripcion": "Cola & Pola Six Pack Lata *330ml",
+    "CodigoBarras": "7702004016621",
+    "PrecioCompra": 10750,
+    "PrecioVenta": 12500,
+    "Existencia": 8,
+    "Stock": 1
+},
+{
+    "Numero": 107,
+    "Descripcion": "Club Colombia Roja Six Pack Lata  *330ml",
+    "CodigoBarras": "7702004003638",
+    "PrecioCompra": 14750,
+    "PrecioVenta": 22000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 106,
+    "Descripcion": "Vodka Stalinsnaya *750ml",
+    "CodigoBarras": "7702454001680",
+    "PrecioCompra": 28200,
+    "PrecioVenta": 38000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 105,
+    "Descripcion": "Crema de Whisky Black Jack *750ml",
+    "CodigoBarras": "7702356410320",
+    "PrecioCompra": 24600,
+    "PrecioVenta": 35000,
+    "Existencia": 0,
+    "Stock": 1
+},
+{
+    "Numero": 104,
+    "Descripcion": "Bacardi Mandarina *750ml",
+    "CodigoBarras": "7610113011898",
+    "PrecioCompra": 40000,
+    "PrecioVenta": 50000,
+    "Existencia": 0,
+    "Stock": 1
+},
+{
+    "Numero": 103,
+    "Descripcion": "Whisky Jack Daniel`s Old Fire Rojo *750ml",
+    "CodigoBarras": "082184001172",
+    "PrecioCompra": 97800,
+    "PrecioVenta": 135000,
+    "Existencia": 3,
+    "Stock": 1
+},
+{
+    "Numero": 102,
+    "Descripcion": "Whisky Jack Daniel`s Old Negro *750ml",
+    "CodigoBarras": "082184090466",
+    "PrecioCompra": 91500,
+    "PrecioVenta": 120000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 101,
+    "Descripcion": "Whisky Johnnie Walker Black Label *700ml",
+    "CodigoBarras": "5000267024233",
+    "PrecioCompra": 117542,
+    "PrecioVenta": 128000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 100,
+    "Descripcion": "Whisky Johnnie Walker Black Label *375ml",
+    "CodigoBarras": "5000267024608",
+    "PrecioCompra": 61855,
+    "PrecioVenta": 71000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 99,
+    "Descripcion": "Whisky Johnnie Walker Red Label *375ml",
+    "CodigoBarras": "5000267014609",
+    "PrecioCompra": 36514,
+    "PrecioVenta": 46000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 98,
+    "Descripcion": "Whisky Johnnie Walker Red Label *700ml",
+    "CodigoBarras": "5000267014203",
+    "PrecioCompra": 56398,
+    "PrecioVenta": 70000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 97,
+    "Descripcion": "Whisky Old Parr 12 años *750ml",
+    "CodigoBarras": "5000281003160",
+    "PrecioCompra": 115644,
+    "PrecioVenta": 133000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 96,
+    "Descripcion": "Whisky Buchanan`s 18 años *750ml",
+    "CodigoBarras": "50196913",
+    "PrecioCompra": 304261,
+    "PrecioVenta": 350000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 95,
+    "Descripcion": "Whisky Buchanan`s D`luxe *750ml",
+    "CodigoBarras": "50196388",
+    "PrecioCompra": 128687,
+    "PrecioVenta": 148000,
+    "Existencia": -5,
+    "Stock": 1
+},
+{
+    "Numero": 94,
+    "Descripcion": "Tequila Don Julio Añejo *700ml",
+    "CodigoBarras": "5000281056258",
+    "PrecioCompra": 232721,
+    "PrecioVenta": 270000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 93,
+    "Descripcion": "Tequila Don Julio Reposado *700ml",
+    "CodigoBarras": "5000281056241",
+    "PrecioCompra": 203392,
+    "PrecioVenta": 240000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 92,
+    "Descripcion": "Tequila Don Julio Blanco *700ml",
+    "CodigoBarras": "5000281056272",
+    "PrecioCompra": 172286,
+    "PrecioVenta": 200000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 91,
+    "Descripcion": "Whisky Buchanan`s Master *750ml",
+    "CodigoBarras": "5000196003774",
+    "PrecioCompra": 147817,
+    "PrecioVenta": 170000,
+    "Existencia": -16,
+    "Stock": 1
+},
+{
+    "Numero": 90,
+    "Descripcion": "Vodka Smirnoff Red *700ml",
+    "CodigoBarras": "5410316942775",
+    "PrecioCompra": 72026,
+    "PrecioVenta": 82000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 89,
+    "Descripcion": "Vodka Smirnoff Lulo Botella *750ml",
+    "CodigoBarras": "7707096271682",
+    "PrecioCompra": 33780,
+    "PrecioVenta": 43000,
+    "Existencia": 3,
+    "Stock": 1
+},
+{
+    "Numero": 88,
+    "Descripcion": "Whisky Black & White *700ml",
+    "CodigoBarras": "50196135",
+    "PrecioCompra": 44050,
+    "PrecioVenta": 56800,
+    "Existencia": 0,
+    "Stock": 1
+},
+{
+    "Numero": 87,
+    "Descripcion": "Whisky Black & White *1000ml",
+    "CodigoBarras": "50196081",
+    "PrecioCompra": 59001,
+    "PrecioVenta": 68000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 86,
+    "Descripcion": "Crema de Whisky Baileys *700ml",
+    "CodigoBarras": "5011013100156",
+    "PrecioCompra": 61851,
+    "PrecioVenta": 71000,
+    "Existencia": 0,
+    "Stock": 1
+},
+{
+    "Numero": 85,
+    "Descripcion": "Crema de Whisky Baileys *375ml",
+    "CodigoBarras": "5011013100194",
+    "PrecioCompra": 37127,
+    "PrecioVenta": 47000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 84,
+    "Descripcion": "Vodka Smirnoff Lulo Tetrapak *1000ml",
+    "CodigoBarras": "7707096289946",
+    "PrecioCompra": 39652,
+    "PrecioVenta": 49000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 83,
+    "Descripcion": "Vodka Smirnoff Red *350ml",
+    "CodigoBarras": "5410316518994",
+    "PrecioCompra": 43470,
+    "PrecioVenta": 53000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 82,
+    "Descripcion": "Vodka Smirnoff Lulo Botella *375ml",
+    "CodigoBarras": "7707096225951",
+    "PrecioCompra": 18588,
+    "PrecioVenta": 28000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 81,
+    "Descripcion": "Ginebra Gordon`s Pink *700ml",
+    "CodigoBarras": "5000289929417",
+    "PrecioCompra": 77465,
+    "PrecioVenta": 89000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 80,
+    "Descripcion": "Ginebra Gordon`s Dry Gin *700ml",
+    "CodigoBarras": "5000289925440",
+    "PrecioCompra": 56734,
+    "PrecioVenta": 66000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 79,
+    "Descripcion": "Vodka Smirnoff Ice Green Apple Botella *275ml",
+    "CodigoBarras": "5410316948999",
+    "PrecioCompra": 6630,
+    "PrecioVenta": 8000,
+    "Existencia": -12,
+    "Stock": 2
+},
+{
+    "Numero": 78,
+    "Descripcion": "Vodka Smirnoff Ice Botella *275ml",
+    "CodigoBarras": "5410316983693",
+    "PrecioCompra": 6630,
+    "PrecioVenta": 8000,
+    "Existencia": -49,
+    "Stock": 2
+},
+{
+    "Numero": 77,
+    "Descripcion": "Vodka Smirnoff Ice Lata *250ml",
+    "CodigoBarras": "5410316997980",
+    "PrecioCompra": 5744,
+    "PrecioVenta": 8000,
+    "Existencia": -4,
+    "Stock": 3
+},
+{
+    "Numero": 76,
+    "Descripcion": "Vodka Smirnoff ice green Apple Lata *250ml",
+    "CodigoBarras": "5410316945981",
+    "PrecioCompra": 5744,
+    "PrecioVenta": 8000,
+    "Existencia": 4,
+    "Stock": 3
+},
+{
+    "Numero": 75,
+    "Descripcion": "Monster Mango *473ml",
+    "CodigoBarras": "070847038764",
+    "PrecioCompra": 5500,
+    "PrecioVenta": 8000,
+    "Existencia": -4,
+    "Stock": 0
+},
+{
+    "Numero": 74,
+    "Descripcion": "Monster Morada *473ml",
+    "CodigoBarras": "070847036463",
+    "PrecioCompra": 5500,
+    "PrecioVenta": 8000,
+    "Existencia": 4,
+    "Stock": 0
+},
+{
+    "Numero": 73,
+    "Descripcion": "Monster Azul *473ml",
+    "CodigoBarras": "070847034322",
+    "PrecioCompra": 5500,
+    "PrecioVenta": 8000,
+    "Existencia": -1,
+    "Stock": 2
+},
+{
+    "Numero": 72,
+    "Descripcion": "Monster Negra *473ml",
+    "CodigoBarras": "070847004707",
+    "PrecioCompra": 5500,
+    "PrecioVenta": 8000,
+    "Existencia": 2,
+    "Stock": 2
+},
+{
+    "Numero": 71,
+    "Descripcion": "ANTIOQUEÑO VERDE TETRA *1050",
+    "CodigoBarras": "7702049001675",
+    "PrecioCompra": 41071,
+    "PrecioVenta": 55000,
+    "Existencia": 3,
+    "Stock": 1
+},
+{
+    "Numero": 70,
+    "Descripcion": "ANTIOQUEÑO ROJO TRADICIONAL *375",
+    "CodigoBarras": "7702049000449",
+    "PrecioCompra": 20882,
+    "PrecioVenta": 25000,
+    "Existencia": 14,
+    "Stock": 3
+},
+{
+    "Numero": 69,
+    "Descripcion": "Cigarrillos Chesterfield Green *Medio",
+    "CodigoBarras": "7702005601246",
+    "PrecioCompra": 3530,
+    "PrecioVenta": 5500,
+    "Existencia": 29,
+    "Stock": 5
+},
+{
+    "Numero": 68,
+    "Descripcion": "Cigarrillos Malboro Sandia *Medio",
+    "CodigoBarras": "7702005600317",
+    "PrecioCompra": 3845,
+    "PrecioVenta": 5500,
+    "Existencia": 10,
+    "Stock": 5
+},
+{
+    "Numero": 67,
+    "Descripcion": "Cigarrillos Malboro Fusion *Medio",
+    "CodigoBarras": "7702005628960",
+    "PrecioCompra": 3980,
+    "PrecioVenta": 5500,
+    "Existencia": 9,
+    "Stock": 5
+},
+{
+    "Numero": 66,
+    "Descripcion": "Cigarrillos Rothmans Azul *Medio",
+    "CodigoBarras": "7702303004787",
+    "PrecioCompra": 4079,
+    "PrecioVenta": 5000,
+    "Existencia": -187,
+    "Stock": 5
+},
+{
+    "Numero": 65,
+    "Descripcion": "Cigarrillos Lucky Daiqui Morado *Medio",
+    "CodigoBarras": "7702303842341",
+    "PrecioCompra": 4674,
+    "PrecioVenta": 5500,
+    "Existencia": -6,
+    "Stock": 5
+},
+{
+    "Numero": 64,
+    "Descripcion": "Cigarrillos Lucky Gin Verde *Medio",
+    "CodigoBarras": "7702303809221",
+    "PrecioCompra": 4674,
+    "PrecioVenta": 5500,
+    "Existencia": -62,
+    "Stock": 5
+},
+{
+    "Numero": 63,
+    "Descripcion": "Cigarrillos Lucky Fest Amarillo *Medio",
+    "CodigoBarras": "7709998424746",
+    "PrecioCompra": 4674,
+    "PrecioVenta": 5500,
+    "Existencia": 15,
+    "Stock": 5
+},
+{
+    "Numero": 62,
+    "Descripcion": "Cigarrillos Malboro Rojo *Medio",
+    "CodigoBarras": "7702005004467",
+    "PrecioCompra": 4469,
+    "PrecioVenta": 5500,
+    "Existencia": 28,
+    "Stock": 5
+},
+{
+    "Numero": 61,
+    "Descripcion": "Cigarrillos Malboro Exotic Vista *Medio",
+    "CodigoBarras": "7702005288591",
+    "PrecioCompra": 4124,
+    "PrecioVenta": 5500,
+    "Existencia": 29,
+    "Stock": 3
+},
+{
+    "Numero": 60,
+    "Descripcion": "Wiskey Chivas Extra 13 años Minin",
+    "CodigoBarras": "0002",
+    "PrecioCompra": 12400,
+    "PrecioVenta": 17800,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 59,
+    "Descripcion": "Wiskey Chivas 12 años Mini",
+    "CodigoBarras": "0001",
+    "PrecioCompra": 11500,
+    "PrecioVenta": 16500,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 58,
+    "Descripcion": "Vocka Absolut Regular Mini *50ml",
+    "CodigoBarras": "7312040017508",
+    "PrecioCompra": 6200,
+    "PrecioVenta": 10000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 57,
+    "Descripcion": "Budweiser Caja Bot*24 unidades *250ml",
+    "CodigoBarras": "7702004110558",
+    "PrecioCompra": 43000,
+    "PrecioVenta": 60000,
+    "Existencia": 0,
+    "Stock": 1
+},
+{
+    "Numero": 56,
+    "Descripcion": "Budweiser Six Pack *269ml",
+    "CodigoBarras": "7702004110619",
+    "PrecioCompra": 11375,
+    "PrecioVenta": 15000,
+    "Existencia": 6,
+    "Stock": 4
+},
+{
+    "Numero": 55,
+    "Descripcion": "TECATE SIX PACK *330ml",
+    "CodigoBarras": "7702090066128",
+    "PrecioCompra": 9875,
+    "PrecioVenta": 16200,
+    "Existencia": 4,
+    "Stock": 4
+},
+{
+    "Numero": 54,
+    "Descripcion": "ANDINA SIX PACK *330ml",
+    "CodigoBarras": "7702090050561",
+    "PrecioCompra": 9875,
+    "PrecioVenta": 16000,
+    "Existencia": 8,
+    "Stock": 0
+},
+{
+    "Numero": 53,
+    "Descripcion": "Costeña Bacana Six Pack *330ml",
+    "CodigoBarras": "7702004004925",
+    "PrecioCompra": 9125,
+    "PrecioVenta": 14000,
+    "Existencia": -4,
+    "Stock": 4
+},
+{
+    "Numero": 52,
+    "Descripcion": "Club Colombia Negra Six Pack Lata *330ml",
+    "CodigoBarras": "7702004003782",
+    "PrecioCompra": 14625,
+    "PrecioVenta": 22000,
+    "Existencia": 12,
+    "Stock": 4
+},
+{
+    "Numero": 51,
+    "Descripcion": "Club Colombia Dorada Six Pack Lata *330ml",
+    "CodigoBarras": "7702004003539",
+    "PrecioCompra": 14375,
+    "PrecioVenta": 22000,
+    "Existencia": 9,
+    "Stock": 4
+},
+{
+    "Numero": 50,
+    "Descripcion": "HEINEKEN SIX PACK *269ml",
+    "CodigoBarras": "7702090052046",
+    "PrecioCompra": 11500,
+    "PrecioVenta": 18000,
+    "Existencia": 8,
+    "Stock": 4
+},
+{
+    "Numero": 49,
+    "Descripcion": "Speed Lata *269ml",
+    "CodigoBarras": "7702090039214",
+    "PrecioCompra": 1104,
+    "PrecioVenta": 1600,
+    "Existencia": 21,
+    "Stock": 5
+},
+{
+    "Numero": 48,
+    "Descripcion": "POKER SIX PACK *330ml",
+    "CodigoBarras": "7702004007377",
+    "PrecioCompra": 11225,
+    "PrecioVenta": 16800,
+    "Existencia": -74,
+    "Stock": 4
+},
+{
+    "Numero": 47,
+    "Descripcion": "AGUILA LIGHT SIX PACK *330ml",
+    "CodigoBarras": "7702004001962",
+    "PrecioCompra": 14750,
+    "PrecioVenta": 19000,
+    "Existencia": -82,
+    "Stock": 4
+},
+{
+    "Numero": 46,
+    "Descripcion": "AGUILA SIX PACK *330ml",
+    "CodigoBarras": "7702004001924",
+    "PrecioCompra": 11875,
+    "PrecioVenta": 19000,
+    "Existencia": 418,
+    "Stock": 4
+},
+{
+    "Numero": 44,
+    "Descripcion": "Corona Lata Six Pack Lata *269ml",
+    "CodigoBarras": "7702004111050",
+    "PrecioCompra": 12375,
+    "PrecioVenta": 21000,
+    "Existencia": 8,
+    "Stock": 1
+},
+{
+    "Numero": 43,
+    "Descripcion": "Gatorade Frutos Tropicales *500ml",
+    "CodigoBarras": "7702192422051",
+    "PrecioCompra": 2625,
+    "PrecioVenta": 3500,
+    "Existencia": -160,
+    "Stock": 2
+},
+{
+    "Numero": 42,
+    "Descripcion": "Coca Cola Mini *250ml",
+    "CodigoBarras": "77035684",
+    "PrecioCompra": 1334,
+    "PrecioVenta": 2000,
+    "Existencia": 4,
+    "Stock": 5
+},
+{
+    "Numero": 41,
+    "Descripcion": "Soda Schweppes *400ml",
+    "CodigoBarras": "7702535010280",
+    "PrecioCompra": 1584,
+    "PrecioVenta": 2800,
+    "Existencia": 0,
+    "Stock": 5
+},
+{
+    "Numero": 40,
+    "Descripcion": "Agua Zalva *600ml",
+    "CodigoBarras": "7702004023919",
+    "PrecioCompra": 584,
+    "PrecioVenta": 1500,
+    "Existencia": 5,
+    "Stock": 10
+},
+{
+    "Numero": 39,
+    "Descripcion": "Vino Cariñoso Manzana *750ml",
+    "CodigoBarras": "7703588000112",
+    "PrecioCompra": 12700,
+    "PrecioVenta": 15000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 38,
+    "Descripcion": "Vino Sanson *750ml",
+    "CodigoBarras": "7703588003304",
+    "PrecioCompra": 18000,
+    "PrecioVenta": 28000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 37,
+    "Descripcion": "Vocka Absolub Regular *700ml",
+    "CodigoBarras": "7312040017683",
+    "PrecioCompra": 67500,
+    "PrecioVenta": 77700,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 36,
+    "Descripcion": "Jagermeister Vidrio *350ml",
+    "CodigoBarras": "4067700017253",
+    "PrecioCompra": 46200,
+    "PrecioVenta": 53200,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 35,
+    "Descripcion": "Jagermeister *750ml",
+    "CodigoBarras": "4067700015419",
+    "PrecioCompra": 81300,
+    "PrecioVenta": 93500,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 34,
+    "Descripcion": "Whiskey Something Special *1000ml",
+    "CodigoBarras": "080432402771",
+    "PrecioCompra": 63500,
+    "PrecioVenta": 74000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 33,
+    "Descripcion": "Whiskey Jack Daniel`s Honey *750ml",
+    "CodigoBarras": "082184000335",
+    "PrecioCompra": 91500,
+    "PrecioVenta": 125000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 32,
+    "Descripcion": "Tequila Jimador Han-Harvested *750ml",
+    "CodigoBarras": "744607002295",
+    "PrecioCompra": 85200,
+    "PrecioVenta": 98000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 31,
+    "Descripcion": "Jose Cuervo Especial *750ml",
+    "CodigoBarras": "7501035010109",
+    "PrecioCompra": 72200,
+    "PrecioVenta": 84000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 30,
+    "Descripcion": "Bacardi Limon *375ml",
+    "CodigoBarras": "080480355609",
+    "PrecioCompra": 24300,
+    "PrecioVenta": 28000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 29,
+    "Descripcion": "Bacardi Limon *1000ml",
+    "CodigoBarras": "7501008616130",
+    "PrecioCompra": 38000,
+    "PrecioVenta": 45000,
+    "Existencia": 0,
+    "Stock": 1
+},
+{
+    "Numero": 28,
+    "Descripcion": "Bacardi Mojito",
+    "CodigoBarras": "080480985462",
+    "PrecioCompra": 37000,
+    "PrecioVenta": 42600,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 27,
+    "Descripcion": "Aguardiente Amarillo Caja *1000ml",
+    "CodigoBarras": "7702168420135",
+    "PrecioCompra": 36500,
+    "PrecioVenta": 45000,
+    "Existencia": 0,
+    "Stock": 1
+},
+{
+    "Numero": 26,
+    "Descripcion": "Red Bull *250ml",
+    "CodigoBarras": "9002490100070",
+    "PrecioCompra": 4600,
+    "PrecioVenta": 7000,
+    "Existencia": 11,
+    "Stock": 1
+},
+{
+    "Numero": 25,
+    "Descripcion": "Four Loko Ponche de Frutas*473ml",
+    "CodigoBarras": "849806001220",
+    "PrecioCompra": 10400,
+    "PrecioVenta": 16000,
+    "Existencia": 3,
+    "Stock": 1
+},
+{
+    "Numero": 24,
+    "Descripcion": "Four Loko Blue *473ml",
+    "CodigoBarras": "849806002319",
+    "PrecioCompra": 10400,
+    "PrecioVenta": 16000,
+    "Existencia": 6,
+    "Stock": 1
+},
+{
+    "Numero": 23,
+    "Descripcion": "Four Loko Sandìa *473ml",
+    "CodigoBarras": "849806001206",
+    "PrecioCompra": 10400,
+    "PrecioVenta": 16000,
+    "Existencia": 4,
+    "Stock": 1
+},
+{
+    "Numero": 22,
+    "Descripcion": "Fourt Loko Gold *473ml",
+    "CodigoBarras": "849806001756",
+    "PrecioCompra": 10400,
+    "PrecioVenta": 16000,
+    "Existencia": 6,
+    "Stock": 1
+},
+{
+    "Numero": 21,
+    "Descripcion": "Corona Tropical Limòn y Frutos Rojos *355ml",
+    "CodigoBarras": "7503034941422",
+    "PrecioCompra": 2500,
+    "PrecioVenta": 5000,
+    "Existencia": 12,
+    "Stock": 1
+},
+{
+    "Numero": 20,
+    "Descripcion": "Corona Tropical Limon y Frutos Amarillos *355ml",
+    "CodigoBarras": "7503034941446",
+    "PrecioCompra": 2334,
+    "PrecioVenta": 5000,
+    "Existencia": -3,
+    "Stock": 1
+},
+{
+    "Numero": 19,
+    "Descripcion": "Four Loko Purple *473ml",
+    "CodigoBarras": "849806002746",
+    "PrecioCompra": 10400,
+    "PrecioVenta": 16000,
+    "Existencia": 4,
+    "Stock": 1
+},
+{
+    "Numero": 18,
+    "Descripcion": "Corona Tropical Lima y Limòn *355ml",
+    "CodigoBarras": "7503034941385",
+    "PrecioCompra": 2500,
+    "PrecioVenta": 5000,
+    "Existencia": 12,
+    "Stock": 1
+},
+{
+    "Numero": 17,
+    "Descripcion": "Corona Tropical Limòn y Toronja *355ml",
+    "CodigoBarras": "7503034941408",
+    "PrecioCompra": 2334,
+    "PrecioVenta": 5000,
+    "Existencia": 15,
+    "Stock": 1
+},
+{
+    "Numero": 16,
+    "Descripcion": "RON MEDELLIN AÑEJO 3 AÑOS *375",
+    "CodigoBarras": "7702049100583",
+    "PrecioCompra": 23238,
+    "PrecioVenta": 34000,
+    "Existencia": 3,
+    "Stock": 2
+},
+{
+    "Numero": 15,
+    "Descripcion": "RON MEDELLIN AÑEJO 3 AÑOS *750",
+    "CodigoBarras": "7702049100576",
+    "PrecioCompra": 41226,
+    "PrecioVenta": 52000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 14,
+    "Descripcion": "ANTIOQUEÑO PREMIUM REAL SILVER *750",
+    "CodigoBarras": "7702049000746",
+    "PrecioCompra": 60812,
+    "PrecioVenta": 66000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 13,
+    "Descripcion": "RON MEDELLIN 8 AÑOS *750",
+    "CodigoBarras": "7702049800384",
+    "PrecioCompra": 61757,
+    "PrecioVenta": 72000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 12,
+    "Descripcion": "RON MEDELLIN DORADO *750",
+    "CodigoBarras": "7709997429032",
+    "PrecioCompra": 38583,
+    "PrecioVenta": 49000,
+    "Existencia": 1,
+    "Stock": 1
+},
+{
+    "Numero": 11,
+    "Descripcion": "ANTIOQUEÑO ROJO TRADICIONAL BOT/LTR *1000",
+    "CodigoBarras": "7702049000517",
+    "PrecioCompra": 48205,
+    "PrecioVenta": 55000,
+    "Existencia": -1,
+    "Stock": 2
+},
+{
+    "Numero": 10,
+    "Descripcion": "ANTIOQUEÑO ROJO TRADICIONAL *750",
+    "CodigoBarras": "7702049000432",
+    "PrecioCompra": 38364,
+    "PrecioVenta": 44000,
+    "Existencia": 3,
+    "Stock": 1
+},
+{
+    "Numero": 8,
+    "Descripcion": "ANTIOQUEÑO AZUL SUGAR BOT/LTR *1000",
+    "CodigoBarras": "7702049000906",
+    "PrecioCompra": 53343,
+    "PrecioVenta": 60000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 7,
+    "Descripcion": "ANTIOQUEÑO AZUL SUGAR *750",
+    "CodigoBarras": "7702049000531",
+    "PrecioCompra": 39081,
+    "PrecioVenta": 45000,
+    "Existencia": 2,
+    "Stock": 1
+},
+{
+    "Numero": 6,
+    "Descripcion": "ANTIOQUEÑO AZUL SUGAR *375",
+    "CodigoBarras": "7702049000548",
+    "PrecioCompra": 21342,
+    "PrecioVenta": 26000,
+    "Existencia": 3,
+    "Stock": 2
+},
+{
+    "Numero": 5,
+    "Descripcion": "ANTIOQUEÑO VERDE VIDRIO *1000",
+    "CodigoBarras": "7702049001699",
+    "PrecioCompra": 45822,
+    "PrecioVenta": 55000,
+    "Existencia": 5,
+    "Stock": 2
+},
+{
+    "Numero": 4,
+    "Descripcion": "ANTIOQUEÑO VERDE *375",
+    "CodigoBarras": "7702049001637",
+    "PrecioCompra": 18072,
+    "PrecioVenta": 25000,
+    "Existencia": -402,
+    "Stock": 5
+},
+{
+    "Numero": 3,
+    "Descripcion": "ANTIOQUEÑO VERDE *750",
+    "CodigoBarras": "7702049001644",
+    "PrecioCompra": 34907,
+    "PrecioVenta": 42000,
+    "Existencia": 8,
+    "Stock": 5
+},
+{
+    "Numero": 2,
+    "Descripcion": "RON MEDELLIN 5 AÑOS *750",
+    "CodigoBarras": "7702049800544",
+    "PrecioCompra": 49931,
+    "PrecioVenta": 60000,
+    "Existencia": 0,
+    "Stock": 1
+}]}
